@@ -17,7 +17,7 @@
 <div align="center">
   <h3>Socials</h3>
 
-  <a href="www.linkedin.com/in/jesse-leeuwerink-b6a274254" target="_blank">
+  <a href="https://www.linkedin.com/in/jesse-leeuwerink-b6a274254/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style+for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>  
 </div>
