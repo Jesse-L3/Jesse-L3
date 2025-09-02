@@ -1,18 +1,14 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=J3SS3HVA.J3SS3HVA" />
 
 <h1 align="center">
- <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=500&color=12FF00&width=435&lines=Hi+There!;My+name+is+Jesse;Frontend+Design+%26++Development" alt="Typing SVG" />
+ <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=500&color=12FF00&width=2000&lines=Hi+visitor;My+name+is+Jesse;Beginner+Web+Developer+and+former+Front-End+student+at+the+Amsterdam+University+of+Applied+Sciences;I+like+to+experiment+with+new+CSS+techniques,+such+as+animations,+styling,+effects,+and+more;Always+open+to+learning+new+things+and+aiming+to+become+a+professional+Web+Developer&center=true" alt="Typing SVG" />
+
+
 </h1>
 
-<h3 align="center">Student Frontend design & Development at HVA (in amsterdam)</h3>
+<h3 align="center">Former Student Frontend design & Development at HVA (in amsterdam)</h3>
 
 <br/>
-
-<div align="center">
-
-🔍 currently learning more about working with frameworks: **Svelte-kit** and a little bit **nuxt**
-
-</div>
 
 <div align="center">
   <h3>Socials</h3>
