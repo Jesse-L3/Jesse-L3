@@ -1,7 +1,7 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=J3SS3HVA.J3SS3HVA" />
 
 <h1 align="center">
- <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=500&color=12FF00&width=2000&lines=Hi+visitor;My+name+is+Jesse;Beginner+Web+Developer+and+former+Front-End+student+at+the+Amsterdam+University+of+Applied+Sciences;I+like+to+experiment+with+new+CSS+techniques,+such+as+animations,+styling,+effects,+and+more;Always+open+to+learning+new+things+and+aiming+to+become+a+professional+Web+Developer&center=true" alt="Typing SVG" />
+ <img src="https://readme-typing-svg.demolab.com?font=Raleway+Code&pause=500&color=F72CCA&width=1200&lines=Hi+visitor;My+name+is+Jesse;Beginner+Web+Developer+and+former+Front-End+student+at+the+Amsterdam+University+of+Applied+Sciences;I+like+to+experiment+with+new+CSS+techniques,+such+as+animations,+styling,+effects,+and+more;Always+open+to+learning+new+things+and+aiming+to+become+a+professional+Web+Developer&center=true" alt="Typing SVG" />
 
 
 </h1>
