@@ -23,7 +23,11 @@
 <h2 align="center">🛠Languages-Frameworks-Tools🛠</h2>
 
 <div align="center">
-<img src="https://skillicons.dev/icons?i=html,css,js,nodejs,svelte,nuxt,figma" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,nodejs,vite,react,svelte,nuxt,figma,npm,ps" />
 </div>
 
+<h2 align="center">What i wanna learn more about</h2>
 
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=tailwind" />
+</div>
