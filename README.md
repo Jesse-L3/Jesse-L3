@@ -18,10 +18,10 @@
 
 <div>
 <h3>Frameworks,tools and others</h3>
-  <img src="https://skillicons.dev/icons?i=nodejs,vite"/><br>
- <img src="https://skillicons.dev/icons?i=react,svelte"/><br>
- <img src="https://skillicons.dev/icons?i=nuxt,figma"/><br>
- <img src="https://skillicons.dev/icons?i=npm,express"/><br>
+   <img src="https://skillicons.dev/icons?i=nodejs,vite"/><br>
+   <img src="https://skillicons.dev/icons?i=react,svelte"/><br>
+   <img src="https://skillicons.dev/icons?i=nuxt,figma"/><br>
+   <img src="https://skillicons.dev/icons?i=npm,express"/><br>
 </div>
 
 
