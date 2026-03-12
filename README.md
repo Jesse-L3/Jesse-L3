@@ -21,13 +21,13 @@
    <img src="https://skillicons.dev/icons?i=nodejs,vite"/><br>
    <img src="https://skillicons.dev/icons?i=react,svelte"/><br>
    <img src="https://skillicons.dev/icons?i=nuxt,figma"/><br>
-   <img src="https://skillicons.dev/icons?i=npm,express"/><br>
+   <img src="https://skillicons.dev/icons?i=tailwind,npm,express"/><br>
 </div>
 
 
 <div>
 <h3>What i wanna learn more about</h3>
-  <img src="https://skillicons.dev/icons?i=tailwind,ts,nextjs,sass" />
+  <img src="https://skillicons.dev/icons?i=ts,nextjs,sass" />
 </div>
 
 <div>
