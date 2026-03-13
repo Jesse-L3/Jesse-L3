@@ -21,7 +21,8 @@
    <img src="https://skillicons.dev/icons?i=nodejs,vite"/><br>
    <img src="https://skillicons.dev/icons?i=react,svelte"/><br>
    <img src="https://skillicons.dev/icons?i=nuxt,figma"/><br>
-   <img src="https://skillicons.dev/icons?i=tailwind,npm,express"/><br>
+   <img src="https://skillicons.dev/icons?i=npm,express"/><br>
+   <img src="https://skillicons.dev/icons?i=tailwind"/><br>
 </div>
 
 
@@ -35,7 +36,7 @@
 <div>
   <h3>contact</h3>
   As you might know, i am currently a starter Front-end developer looking for a job. 
-  Wanna get in touch with me or are you a employer looking to hire? 
+  Wanna get in touch with me or are you an employer looking to hire? 
   Than feel free to contact me through LinkedIn.<br>
   
  
