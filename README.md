@@ -40,3 +40,6 @@
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style+for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>  
 </div>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jesse-L3&layout=pie&langs_count=10&bg_color=262626&title_color=B4EFB3&text_color=B4EFB3&border_color=B4EFB3)](https://github.com/anuraghazra/github-readme-stats)
+
