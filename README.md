@@ -28,18 +28,19 @@
 <div>
 <h3>What i wanna learn more about</h3>
   <img src="https://skillicons.dev/icons?i=ts,nextjs,sass" />
-</div>
+</div><br>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jesse-L3&layout=pie&langs_count=10&bg_color=262626&title_color=B4EFB3&text_color=B4EFB3&border_color=B4EFB3)](https://github.com/anuraghazra/github-readme-stats)<br>
 
 <div>
   <h3>contact</h3>
   As you might know, i am currently a starter Front-end developer looking for a job. 
   Wanna get in touch with me or are you a employer looking to hire? 
   Than feel free to contact me through LinkedIn.<br>
+  
  
   <a href="https://www.linkedin.com/in/jesse-leeuwerink-b6a274254/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style+for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>  
 </div>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jesse-L3&layout=pie&langs_count=10&bg_color=262626&title_color=B4EFB3&text_color=B4EFB3&border_color=B4EFB3)](https://github.com/anuraghazra/github-readme-stats)
 
