@@ -5,11 +5,11 @@
 </h1>
 
 - :computer: Junior Front-end developer
-- :mortar_board: Graduated From Amsterdam university of applied sciences (Front-end design and development)
-- :mag_right: Developer thats eager to learn new things
+- :mortar_board: Graduated From Amsterdam university of applied sciences <b>Front-end design and development</b>
+- :mag_right: Developer thats eager to learn new things anf helping others
 - :sparkles: Goal is to become a proffesional webdeveloper that also likes to help others.
 
-- :pencil: job: currently looking for work
+- :pencil: <b>currently looking for work</b>
 
 <div>
 <h3>Languages</h3>
