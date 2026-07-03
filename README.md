@@ -1,10 +1,10 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=J3SS3HVA.J3SS3HVA" />
 
 <h1>
-<p>Hello visitor, the name is <e>Jesse</e>.</p>
+<p>Hello fewllow developer, the name is <e>Jesse</e>.</p>
 </h1>
 
-- :computer: starter Front-end developer
+- :computer: Junior Front-end developer
 - :mortar_board: Graduated From Amsterdam university of applied sciences (Front-end design and development)
 - :mag_right: Developer thats eager to learn new things
 - :sparkles: Goal is to become a proffesional webdeveloper that also likes to help others.
