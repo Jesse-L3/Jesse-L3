@@ -1,7 +1,7 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=J3SS3HVA.J3SS3HVA" />
 
 <h1>
-<p>Hello fewllow developer, the name is <e>Jesse</e>.</p>
+<p>Hello fellow developer, the name is <e>Jesse</e>.</p>
 </h1>
 
 - :computer: Junior Front-end developer
